@@ -6,11 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'todo-list';
+  title = 'lista zadań';
 
 
   get footer(): string {
-    return '2020 © Lista zadań,All rights reserved.';
+    return '© Lista zadań,All rights reserved.';
   }
 
+  getDate(): Date {
+    return new Date();
+  }
 }

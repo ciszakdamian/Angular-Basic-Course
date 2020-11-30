@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbb41ced-d220-4dba-a94f-d723a724ed48" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/first-project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/first-project/src/app/app.component.html" afterDir="false" />
+    <list default="true" id="bbb41ced-d220-4dba-a94f-d723a724ed48" name="Default Changelist" comment="interpolation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-list/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-list/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +58,16 @@
       <updated>1606349166685</updated>
       <workItem from="1606349167739" duration="4194000" />
       <workItem from="1606491507860" duration="160000" />
-      <workItem from="1606693586023" duration="34000" />
+      <workItem from="1606693586023" duration="2532000" />
     </task>
+    <task id="LOCAL-00001" summary="interpolation">
+      <created>1606693746026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606693746026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +85,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="interpolation" />
+    <option name="LAST_COMMIT_MESSAGE" value="interpolation" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="418" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606350207231">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -84,10 +98,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="755" y="470" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1606349233692" />
-    <state x="513" y="306" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1606349254264">
+    <state x="513" y="306" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1606693749804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="513" y="306" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1606349254264" />
+    <state x="513" y="306" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1606693749804" />
     <state x="669" y="474" width="487" height="185" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606349244184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
